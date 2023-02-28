@@ -1,0 +1,20 @@
+{
+  "name": "cowsay-stephenburns30303",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-StephenBurns30303.git"
+  },
+  "keywords": [],
+  "author": "Stephen Burns-g <sbur8872@stu.raritanval.edu-g> (https://github.com/StephenBurns30303-g)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-StephenBurns30303/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-StephenBurns30303#readme"
+}
