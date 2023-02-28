@@ -2,7 +2,8 @@
 ## Snake wins round 1!
 
 
-\'''
+```
+
 The elephant fought hard but the snake was quicker!
                    .---'-    \
       .-----------/           \
@@ -16,4 +17,6 @@ The elephant fought hard but the snake was quicker!
   \|, '_:::\  . ..  '_:::\ ..\).
 
 Elephant Will Win Next Time!
-'''/
+
+```
+
